@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-05-07 23:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2018-05-07 21:58:30 +0000"
@@ -491,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-05-07 23:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-05-07 22:16:15 +0000"
@@ -518,6 +530,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-05-07 23:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-05-07 23:20:15 +0000"
     },
     "done": true
   },
@@ -596,9 +614,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-05-07 21:56:53 +0000",
+      "birch_forest": "2018-05-07 23:19:43 +0000",
       "beaches": "2018-05-07 23:04:25 +0000",
+      "forest_hills": "2018-05-07 23:22:33 +0000",
+      "plains": "2018-05-07 23:22:05 +0000",
       "taiga": "2018-05-07 22:31:47 +0000",
       "taiga_hills": "2018-05-07 22:33:10 +0000",
+      "birch_forest_hills": "2018-05-07 23:20:51 +0000",
       "extreme_hills": "2018-05-07 22:18:11 +0000",
       "river": "2018-05-07 22:10:36 +0000"
     },
@@ -742,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-05-07 23:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2018-05-07 22:31:46 +0000"
@@ -763,6 +791,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-05-07 23:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-05-07 23:20:15 +0000"
     },
     "done": true
   },
