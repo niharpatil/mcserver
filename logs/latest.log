@@ -56,3 +56,6 @@
 [22:58:40] [User Authenticator #6/INFO]: UUID of player Destructnatr is 48357fa9-0fd1-43e9-a2bb-d818a86c8548
 [22:58:40] [Server thread/INFO]: Destructnatr[/165.123.215.94:62508] logged in with entity id 76290 at (-134.64336056275266, 64.0, -1239.5053937731336)
 [22:58:40] [Server thread/INFO]: Destructnatr joined the game
+[23:00:02] [Server thread/INFO]: building_goddddd was shot by Skeleton
+[23:00:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[23:02:25] [Server thread/INFO]: <Destructnatr> -135, 68, -1460
