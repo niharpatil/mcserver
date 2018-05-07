@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2018-05-07 23:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-05-07 22:57:57 +0000"
@@ -614,6 +620,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-05-07 21:56:53 +0000",
+      "swampland": "2018-05-07 23:25:42 +0000",
       "birch_forest": "2018-05-07 23:19:43 +0000",
       "beaches": "2018-05-07 23:04:25 +0000",
       "forest_hills": "2018-05-07 23:22:33 +0000",
