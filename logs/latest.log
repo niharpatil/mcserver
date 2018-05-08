@@ -1,60 +1,29 @@
-[03:32:17] [Server thread/INFO]: Loading properties
-[03:32:17] [Server thread/INFO]: Default game type: SURVIVAL
-[03:32:17] [Server thread/INFO]: Generating keypair
-[03:32:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:32:18] [Server thread/INFO]: Using epoll channel type
-[03:32:18] [Server thread/INFO]: Preparing level "world"
-[03:32:18] [Server thread/INFO]: Loaded 488 advancements
-[03:32:18] [Server thread/INFO]: Preparing start region for level 0
-[03:32:19] [Server thread/INFO]: Preparing spawn area: 0%
-[03:32:20] [Server thread/INFO]: Preparing spawn area: 25%
-[03:32:21] [Server thread/INFO]: Preparing spawn area: 92%
-[03:32:22] [Server thread/INFO]: Done (3.779s)! For help, type "help" or "?"
-[03:32:45] [User Authenticator #1/INFO]: UUID of player koolnihar is 19b463c4-d8e5-4c5a-98ad-d9d307c88d1b
-[03:32:45] [Server thread/INFO]: koolnihar[/165.123.219.199:61339] logged in with entity id 224 at (-154.5478156804079, 58.0, -1204.699999988079)
-[03:32:45] [Server thread/INFO]: koolnihar joined the game
-[03:32:51] [Server thread/INFO]: koolnihar lost connection: Disconnected
-[03:32:51] [Server thread/INFO]: koolnihar left the game
-[03:33:24] [User Authenticator #2/INFO]: UUID of player V__ is cb1761a9-1a10-4bc9-a86c-5961ca3c055d
-[03:33:24] [Server thread/INFO]: V__[/165.123.212.64:64854] logged in with entity id 409 at (-220.5, 76.0, 250.5)
-[03:33:24] [Server thread/INFO]: V__ joined the game
-[03:33:58] [User Authenticator #3/INFO]: UUID of player Destructnatr is 48357fa9-0fd1-43e9-a2bb-d818a86c8548
-[03:33:58] [Server thread/INFO]: Destructnatr[/165.123.215.94:62852] logged in with entity id 1121 at (-130.3674837663463, 67.0, -1461.5565598258888)
-[03:33:58] [Server thread/INFO]: Destructnatr joined the game
-[03:34:13] [Server thread/INFO]: <Destructnatr> -130, 67, -1461
-[03:34:16] [User Authenticator #4/INFO]: UUID of player building_goddddd is 04183080-688b-4014-98ed-0d333fdf0d39
-[03:34:16] [Server thread/INFO]: building_goddddd[/165.123.227.219:58229] logged in with entity id 1656 at (-369.83398845563636, 12.0, 290.44338989068126)
-[03:34:16] [Server thread/INFO]: building_goddddd joined the game
-[03:34:23] [Server thread/INFO]: V__ has made the advancement [Acquire Hardware]
-[03:34:23] [Server thread/INFO]: V__ has made the advancement [Stone Age]
-[03:34:56] [Server thread/INFO]: V__ has made the advancement [Diamonds!]
-[03:35:31] [Server thread/INFO]: <Destructnatr> nihar is a bukkake
-[03:35:44] [Server thread/INFO]: <building_goddddd> nihar is a penis
-[03:36:13] [Server thread/INFO]: V__ has made the advancement [Isn't It Iron Pick]
-[03:36:25] [Server thread/INFO]: V__ has made the advancement [Monster Hunter]
-[03:46:13] [Server thread/INFO]: building_goddddd was shot by Skeleton
-[03:56:02] [Server thread/INFO]: V__ has made the advancement [Suit Up]
-[03:57:49] [Server thread/INFO]: V__ has made the advancement [Hot Stuff]
-[03:58:16] [Server thread/INFO]: <Destructnatr> -130, 67, -1461
-[04:30:13] [Server thread/INFO]: V__ has made the advancement [Sweet dreams]
-[04:31:27] [Server thread/INFO]: V__ has made the advancement [Ice Bucket Challenge]
-[04:32:11] [Server thread/INFO]: building_goddddd has made the advancement [Suit Up]
-[04:32:17] [Server thread/INFO]: Destructnatr has made the advancement [Suit Up]
-[04:34:04] [Server thread/INFO]: V__ has made the advancement [Enchanter]
-[04:35:12] [Server thread/INFO]: building_goddddd has made the advancement [Enchanter]
-[04:39:27] [Server thread/INFO]: Destructnatr has made the advancement [The Parrots and the Bats]
-[04:44:42] [Server thread/INFO]: <building_goddddd> nihar is a penis
-[04:44:46] [Server thread/INFO]: <building_goddddd> penissssss
-[04:46:14] [User Authenticator #5/INFO]: UUID of player koolnihar is 19b463c4-d8e5-4c5a-98ad-d9d307c88d1b
-[04:46:15] [Server thread/INFO]: koolnihar[/165.123.219.199:61856] logged in with entity id 139367 at (-154.5478156804079, 58.0, -1204.699999988079)
-[04:46:15] [Server thread/INFO]: koolnihar joined the game
-[04:46:24] [Server thread/INFO]: <Destructnatr> -130, 67, -1461
-[04:55:34] [Server thread/INFO]: koolnihar lost connection: Disconnected
-[04:55:34] [Server thread/INFO]: koolnihar left the game
-[04:56:43] [User Authenticator #6/INFO]: UUID of player koolnihar is 19b463c4-d8e5-4c5a-98ad-d9d307c88d1b
-[04:56:43] [Server thread/INFO]: koolnihar[/165.123.219.199:62004] logged in with entity id 152650 at (-157.17214727428004, 69.0, -1464.8542277971594)
-[04:56:43] [Server thread/INFO]: koolnihar joined the game
-[05:05:36] [Server thread/INFO]: koolnihar has made the advancement [Suit Up]
-[05:10:52] [Server thread/INFO]: koolnihar has made the advancement [Monster Hunter]
-[05:31:59] [Server thread/INFO]: koolnihar lost connection: Disconnected
-[05:31:59] [Server thread/INFO]: koolnihar left the game
+[05:33:58] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[05:33:58] [Server thread/INFO]: Loading properties
+[05:33:58] [Server thread/INFO]: Default game type: SURVIVAL
+[05:33:58] [Server thread/INFO]: Generating keypair
+[05:33:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:33:59] [Server thread/INFO]: Using epoll channel type
+[05:33:59] [Server thread/INFO]: Preparing level "world"
+[05:33:59] [Server thread/INFO]: Loaded 488 advancements
+[05:34:00] [Server thread/INFO]: Preparing start region for level 0
+[05:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[05:34:02] [Server thread/INFO]: Preparing spawn area: 32%
+[05:34:02] [Server thread/INFO]: Done (3.488s)! For help, type "help" or "?"
+[05:34:11] [User Authenticator #1/INFO]: UUID of player Destructnatr is 48357fa9-0fd1-43e9-a2bb-d818a86c8548
+[05:34:11] [User Authenticator #2/INFO]: UUID of player V__ is cb1761a9-1a10-4bc9-a86c-5961ca3c055d
+[05:34:11] [Server thread/INFO]: Destructnatr[/165.123.215.94:63123] logged in with entity id 159 at (-92.64390194493186, 63.0, -1477.5459781459822)
+[05:34:11] [Server thread/INFO]: Destructnatr joined the game
+[05:34:12] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID ea5fa2cd-2833-4014-8d03-81857f68040d
+[05:34:13] [Server thread/INFO]: V__[/165.123.212.64:65231] logged in with entity id 537 at (-139.5, 67.0999984741211, -1508.5)
+[05:34:13] [Server thread/INFO]: V__ joined the game
+[05:34:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2525ms behind, skipping 50 tick(s)
+[05:34:14] [User Authenticator #3/INFO]: UUID of player building_goddddd is 04183080-688b-4014-98ed-0d333fdf0d39
+[05:34:14] [Server thread/INFO]: building_goddddd[/165.123.227.219:58323] logged in with entity id 617 at (-171.875099988371, 76.0, -1480.192322688597)
+[05:34:14] [Server thread/INFO]: building_goddddd joined the game
+[06:05:23] [Server thread/INFO]: building_goddddd lost connection: Disconnected
+[06:05:23] [Server thread/INFO]: building_goddddd left the game
+[06:06:07] [Server thread/INFO]: V__ lost connection: Disconnected
+[06:06:07] [Server thread/INFO]: V__ left the game
+[06:07:30] [Server thread/INFO]: Destructnatr lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[06:07:30] [Server thread/INFO]: Destructnatr left the game
