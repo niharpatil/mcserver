@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-05-09 04:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2018-05-07 21:58:30 +0000"
@@ -271,7 +277,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2018-05-07 22:26:19 +0000"
+      "cooked_mutton": "2018-05-07 22:26:19 +0000",
+      "cooked_beef": "2018-05-09 03:40:04 +0000"
     },
     "done": false
   },
@@ -302,6 +309,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2018-05-07 22:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2018-05-09 04:06:27 +0000"
     },
     "done": true
   },
@@ -654,17 +667,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2018-05-08 05:10:52 +0000",
+      "zombie": "2018-05-09 03:28:19 +0000",
+      "silverfish": "2018-05-09 03:53:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2018-05-08 05:13:29 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "skeleton": "2018-05-08 05:10:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -942,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2018-05-09 04:06:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2018-05-07 22:00:17 +0000"
@@ -987,6 +1008,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-05-08 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2018-05-09 04:06:27 +0000"
     },
     "done": true
   },
@@ -1115,6 +1142,7 @@
       "taiga": "2018-05-07 22:31:47 +0000",
       "taiga_hills": "2018-05-07 22:33:10 +0000",
       "birch_forest_hills": "2018-05-07 23:20:51 +0000",
+      "ocean": "2018-05-09 03:41:52 +0000",
       "extreme_hills": "2018-05-07 22:18:11 +0000",
       "roofed_forest": "2018-05-08 04:47:39 +0000",
       "river": "2018-05-07 22:10:36 +0000"
@@ -1199,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-05-09 04:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-05-07 21:58:30 +0000"
@@ -1220,6 +1254,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-05-07 22:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2018-05-09 04:17:38 +0000"
     },
     "done": true
   },

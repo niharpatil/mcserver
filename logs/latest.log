@@ -1,29 +1,122 @@
-[05:33:58] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[05:33:58] [Server thread/INFO]: Loading properties
-[05:33:58] [Server thread/INFO]: Default game type: SURVIVAL
-[05:33:58] [Server thread/INFO]: Generating keypair
-[05:33:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:33:59] [Server thread/INFO]: Using epoll channel type
-[05:33:59] [Server thread/INFO]: Preparing level "world"
-[05:33:59] [Server thread/INFO]: Loaded 488 advancements
-[05:34:00] [Server thread/INFO]: Preparing start region for level 0
-[05:34:01] [Server thread/INFO]: Preparing spawn area: 0%
-[05:34:02] [Server thread/INFO]: Preparing spawn area: 32%
-[05:34:02] [Server thread/INFO]: Done (3.488s)! For help, type "help" or "?"
-[05:34:11] [User Authenticator #1/INFO]: UUID of player Destructnatr is 48357fa9-0fd1-43e9-a2bb-d818a86c8548
-[05:34:11] [User Authenticator #2/INFO]: UUID of player V__ is cb1761a9-1a10-4bc9-a86c-5961ca3c055d
-[05:34:11] [Server thread/INFO]: Destructnatr[/165.123.215.94:63123] logged in with entity id 159 at (-92.64390194493186, 63.0, -1477.5459781459822)
-[05:34:11] [Server thread/INFO]: Destructnatr joined the game
-[05:34:12] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID ea5fa2cd-2833-4014-8d03-81857f68040d
-[05:34:13] [Server thread/INFO]: V__[/165.123.212.64:65231] logged in with entity id 537 at (-139.5, 67.0999984741211, -1508.5)
-[05:34:13] [Server thread/INFO]: V__ joined the game
-[05:34:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2525ms behind, skipping 50 tick(s)
-[05:34:14] [User Authenticator #3/INFO]: UUID of player building_goddddd is 04183080-688b-4014-98ed-0d333fdf0d39
-[05:34:14] [Server thread/INFO]: building_goddddd[/165.123.227.219:58323] logged in with entity id 617 at (-171.875099988371, 76.0, -1480.192322688597)
-[05:34:14] [Server thread/INFO]: building_goddddd joined the game
-[06:05:23] [Server thread/INFO]: building_goddddd lost connection: Disconnected
-[06:05:23] [Server thread/INFO]: building_goddddd left the game
-[06:06:07] [Server thread/INFO]: V__ lost connection: Disconnected
-[06:06:07] [Server thread/INFO]: V__ left the game
-[06:07:30] [Server thread/INFO]: Destructnatr lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[06:07:30] [Server thread/INFO]: Destructnatr left the game
+[03:47:10] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[03:47:10] [Server thread/INFO]: Loading properties
+[03:47:10] [Server thread/INFO]: Default game type: SURVIVAL
+[03:47:10] [Server thread/INFO]: Generating keypair
+[03:47:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:47:11] [Server thread/INFO]: Using epoll channel type
+[03:47:12] [Server thread/INFO]: Preparing level "world"
+[03:47:12] [Server thread/INFO]: Loaded 488 advancements
+[03:47:12] [Server thread/INFO]: Preparing start region for level 0
+[03:47:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:47:14] [Server thread/INFO]: Preparing spawn area: 39%
+[03:47:15] [Server thread/INFO]: Done (3.415s)! For help, type "help" or "?"
+[03:47:18] [User Authenticator #1/INFO]: UUID of player koolnihar is 19b463c4-d8e5-4c5a-98ad-d9d307c88d1b
+[03:47:18] [Server thread/INFO]: koolnihar[/165.123.215.171:51392] logged in with entity id 161 at (-229.60630166908837, 71.0, 258.65017136837446)
+[03:47:18] [Server thread/INFO]: koolnihar joined the game
+[03:47:27] [User Authenticator #2/INFO]: UUID of player Destructnatr is 48357fa9-0fd1-43e9-a2bb-d818a86c8548
+[03:47:27] [Server thread/INFO]: Destructnatr[/165.123.220.63:64399] logged in with entity id 1170 at (-97.03872819284494, 68.0, -1474.5015284631104)
+[03:47:27] [Server thread/INFO]: Destructnatr joined the game
+[03:47:32] [Server thread/INFO]: [koolnihar: Teleported koolnihar to Destructnatr]
+[03:47:46] [Server thread/INFO]: [koolnihar: Teleported Destructnatr to koolnihar]
+[03:48:27] [Server thread/INFO]: [koolnihar: Teleported Destructnatr to koolnihar]
+[03:48:40] [Server thread/INFO]: koolnihar was slain by Destructnatr
+[03:49:00] [Server thread/INFO]: [koolnihar: Teleported koolnihar to Destructnatr]
+[03:49:07] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:49:17] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:49:38] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:49:51] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:50:03] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:50:12] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:50:20] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:50:30] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:50:42] [Server thread/WARN]: Skipping Entity with id minecraft:alpaca
+[03:51:48] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:52:09] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:52:52] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:54:56] [Server thread/INFO]: koolnihar was slain by Zombie
+[03:55:07] [Server thread/INFO]: [koolnihar: Teleported koolnihar to Destructnatr]
+[03:56:13] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:24] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:28] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:33] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:34] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:34] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:35] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:36] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:36] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:37] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:37] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:38] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:38] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:39] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:39] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:40] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:40] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:41] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:41] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:42] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:42] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:43] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:56:43] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:57:33] [Server thread/WARN]: Skipping Entity with id minecraft:polar
+[03:57:38] [Server thread/WARN]: Skipping Entity with id minecraft:polarbear
+[03:57:46] [Server thread/WARN]: Skipping Entity with id minecraft:polar
+[03:57:55] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:58:00] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[03:58:38] [Server thread/WARN]: Skipping Entity with id minecraft:salmon
+[03:58:58] [Server thread/WARN]: Skipping Entity with id minecraft:npc
+[03:59:02] [Server thread/WARN]: Skipping Entity with id minecraft:npc
+[03:59:46] [Server thread/WARN]: Skipping Entity with id minecraft:polarbear
+[03:59:50] [Server thread/WARN]: Skipping Entity with id minecraft:polar
+[03:59:53] [Server thread/WARN]: Skipping Entity with id minecraft:polar
+[03:59:59] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:23] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:23] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:24] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:24] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:24] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:25] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:25] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:26] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:26] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:26] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:27] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:27] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:27] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:27] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:28] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:28] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:29] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:29] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:30] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:30] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:30] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:31] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:31] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:31] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:32] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:32] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:32] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:33] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:33] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:34] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:34] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:34] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:00:35] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:12:28] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:12] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:13] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:13] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:14] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:14] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:14] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:15] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:15] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:16] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:16] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:14:47] [Server thread/INFO]: [koolnihar: Object successfully summoned]
+[04:18:23] [Server thread/INFO]: koolnihar was slain by Destructnatr
+[04:21:14] [Server thread/INFO]: koolnihar lost connection: Disconnected
+[04:21:14] [Server thread/INFO]: koolnihar left the game
+[04:21:37] [Server thread/INFO]: Destructnatr lost connection: Disconnected
+[04:21:37] [Server thread/INFO]: Destructnatr left the game
